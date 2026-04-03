@@ -1,6 +1,6 @@
 # Terraform-deployment
 
-This repository contain all of my production deployable configuration of terraform
+This repository contain all of my public production deployable configuration of Terraform
 
 ## List of projects
  - cloud-init-scaling

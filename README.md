@@ -6,6 +6,8 @@ This repository contain all of my public production deployable configuration of 
  - cloud-init-scaling
  - kubernetes-architecture
 
+---
+
 ### **Cloud-init-scaling**
 
 Providers:
@@ -16,6 +18,8 @@ Description:
 
 
 Based on debian 12 cloud init image
+
+---
 
 ### **Kubernetes-architecture**
 
